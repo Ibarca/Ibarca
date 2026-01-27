@@ -30,10 +30,10 @@ SQL • Python
 BigQuery • Pandas • NumPy • Data Modeling • KPI Frameworks  
 
 **BI & Visualization**  
-Looker Studio • Tableau  
+Looker Studio • PowerBI  
 
 **Other Tools**  
-Advanced Excel • Git • Jupyter Notebooks  
+Advanced Excel • Jupyter Notebooks  
 
 ---
 
