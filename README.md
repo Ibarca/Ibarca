@@ -15,9 +15,12 @@ I design data projects inspired by real operational and commercial challenges. I
 - 🛒 E-commerce performance and assortment analytics  
 - 👥 Customer analytics and behavior insights  
 - 📈 Market and commercial performance analysis  
-- 📣 Marketing data insights and KPI tracking  
+- 📣 Marketing data insights and KPI tracking
+
+
 
 Across these areas, my focus is always the same: turning complex, messy data into **clear, decision-ready insights** that support better business decisions.
+
 ---
 
 
