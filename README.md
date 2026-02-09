@@ -48,6 +48,7 @@ I’m currently looking for opportunities in:
 with a focus on **E-commerce, Supply Chain, or Operations Analytics**
 
 I bring a rare combination of:
+
 ✔ Business ownership mindset  
 ✔ Strong analytical and technical skills  
 ✔ Ability to translate data into action
@@ -56,7 +57,6 @@ I bring a rare combination of:
 ---
 ## 📫 Let’s Connect
 
-💼 Open to analytics opportunities  
 🔗 LinkedIn: *[www.linkedin.com/in/yago-b-35582644]*  
 📧 Email: *[ibarreirocanda@gmail.com]*
 <!--
